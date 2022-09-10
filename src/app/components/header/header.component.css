@@ -1,0 +1,13 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: blue;
+}
+
+.container a{
+  text-decoration: none;
+  color: snow;
+  margin: 5px;
+}
